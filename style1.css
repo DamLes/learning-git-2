@@ -1,4 +1,4 @@
-﻿/* GLOBAL */
+/* GLOBAL */
 
 * {
     box-sizing:border-box;
@@ -54,7 +54,7 @@ body {
 }
 
   .text {
-    font-size: 30px;
-    margin-bottom:45px;
+    font-size: 20px;
+    margin-bottom:50px;
     text-align: center;
 }
